@@ -1,6 +1,8 @@
 # RokuRemote
 ![Remote](https://i.ibb.co/KNQLSBP/remote.png)
 
+![Remote 2](https://i.ibb.co/zJKZhs0/two.png)
+
 Remote DEMO:
 
 https://youtu.be/cgGxNrCrCgY
