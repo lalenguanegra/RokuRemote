@@ -53,3 +53,8 @@ Youtube ROKU
 
 https://www.icloud.com/shortcuts/8c1108ab6bf14d98be1aaea2158d2000
 
+
+Reference:
+
+https://developer.roku.com/docs/developer-program/debugging/external-control-api.md
+
