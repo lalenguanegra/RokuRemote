@@ -11,6 +11,10 @@ EXE DEMO:
 
 https://www.youtube.com/watch?v=4TFgMugCTcs
 
+pip install pyinstaller
+
+pyinstaller --windowed --onefile --icon=drip.ico RokuRemote_Single_File.py
+
 ROKU iOS Shortcuts
 
 GO BACK 
