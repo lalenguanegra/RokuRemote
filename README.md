@@ -3,7 +3,7 @@
 
 ![Remote2](https://i.imgur.com/xKSYss3l.png)
 
-![Remote3](https://i.ibb.co/wppdwsd/ssremote.png)
+![Remote3](https://github.com/lalenguanegra/RokuRemote/blob/master/ssremote.png)
 
 Remote DEMO:
 
