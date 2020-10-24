@@ -7,11 +7,7 @@
 
 Remote DEMO:
 
-https://youtu.be/cgGxNrCrCgY
-
-EXE DEMO:
-
-https://www.youtube.com/watch?v=4TFgMugCTcs
+https://www.bitchute.com/video/LzYUYoIboAR3/
 
 pip install pyinstaller
 
